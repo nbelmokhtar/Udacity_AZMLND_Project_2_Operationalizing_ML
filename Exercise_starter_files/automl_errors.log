@@ -1,0 +1,34 @@
+2021-01-29 00:19:13.677 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package azureml-train-automl missing from dependencies file.
+2021-01-29 00:19:13.679 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:205 - Using pinned version: azureml-train-automl==1.20.0.*
+2021-01-29 00:19:13.680 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package pandas missing from dependencies file.
+2021-01-29 00:19:13.687 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:205 - Using pinned version: pandas==0.25.1
+2021-01-29 00:19:13.688 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package psutil missing from dependencies file.
+2021-01-29 00:19:13.688 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:205 - Using pinned version: psutil>5.0.0,<6.0.0
+2021-01-29 00:19:13.689 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package scikit-learn missing from dependencies file.
+2021-01-29 00:19:13.689 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:205 - Using pinned version: scikit-learn==0.22.1
+2021-01-29 00:19:13.690 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package numpy missing from dependencies file.
+2021-01-29 00:19:13.690 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:205 - Using pinned version: numpy~=1.18.0
+2021-01-29 00:19:13.691 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package py-xgboost missing from dependencies file.
+2021-01-29 00:19:13.691 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:205 - Using pinned version: py-xgboost<=0.90
+2021-01-29 00:19:13.692 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package inference-schema missing from dependencies file.
+2021-01-29 00:19:13.692 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package fbprophet missing from dependencies file.
+2021-01-29 00:19:13.693 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:205 - Using pinned version: fbprophet==0.5
+2021-01-29 00:19:13.693 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:199 - Package setuptools-git missing from dependencies file.
+2021-01-29 00:19:13.696 - INFO - 6534 - azureml.train.automl._azureautomlclient.modify_run_configuration:209 - Using installed version: setuptools-git==1.2
+2021-01-29 00:19:13.707 - INFO - 6534 - azureml.automl.core.dataset_utilities._save_datasets_to_json:148 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2021-01-29 00:19:13.708 - INFO - 6534 - azureml.automl.core.dataset_utilities._save_datasets_to_json:148 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2021-01-29 00:19:13.717 - INFO - 6534 - azureml.train.automl._azureautomlclient._validate_input:664 - Start data validation.
+2021-01-29 00:19:13.743 - CRITICAL - 6534 - azureml.train.automl._azureautomlclient.log_traceback:224 - Type: Unclassified
+Class: ValueError
+Message: experiment_id should not be None.
+Traceback:
+  File "_azureautomlclient.py", line 673, in _validate_input
+    validation_results = self._jasmine_client.post_validate_service(parent_run_dto)
+  File "jasmine_client.py", line 60, in post_validate_service
+    self._client.jasmine.validate_run_input, create_parent_run_dto)
+  File "experiment_client.py", line 261, in _execute_with_experimentid_arguments
+    raise ValueError("experiment_id should not be None.")
+
+ExceptionTarget: Unspecified
+2021-01-29 00:19:13.743 - WARNING - 6534 - azureml.train.automl._azureautomlclient._validate_input:681 - Validation service meet exceptions, continue training now.
+2021-01-29 01:02:22.337 - INFO - 6534 - azureml.automl.runtime.distributed.utilities.horovod_initialized:58 - Horovod not found in current environment. Distribution via Horovod will be disabled.
