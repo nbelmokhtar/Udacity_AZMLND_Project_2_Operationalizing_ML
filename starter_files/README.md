@@ -23,6 +23,19 @@ We can skip the authentication step since we are not authorized to create a secu
 ### Step 1 : Authentication
 As mentioned before, the autentication step was done for us. In this step, we need to install the Azure Machine Learning Extension which allows us to interact with Azure ML Studio, part of the `az` command and create a `Service Principal account`. 
 
+### Step 2 : Automated ML Experiment
+
+### Step 3 : Deploy the Best Model
+
+### Step 4 : Enable logging
+
+### Step 5 : Swagger Documentation
+
+### Step 6 : Consume model endpoints
+
+### Step 7 : Create and publish a pipeline
+
+### Step 8 : Documentation
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
