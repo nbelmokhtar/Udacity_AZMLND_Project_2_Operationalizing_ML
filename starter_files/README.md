@@ -13,7 +13,7 @@ The main steps followed in the project are :
 7. Create and publish a pipeline
 8. Documentation
 
-We didn't include the Autentication step because we are using the lab Udacity provided to you, you can skip this step since you are not authorized to create a security principal.
+We can skip the authentication step since we are not authorized to create a security principal because we are using the lab Udacity provided to us.
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
