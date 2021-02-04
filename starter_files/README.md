@@ -16,7 +16,8 @@ The main steps followed in the project are :
 We can skip the authentication step since we are not authorized to create a security principal because we are using the lab Udacity provided to us.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+
+![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/architectual_diagram.png) 
 
 ## Key Steps
 
