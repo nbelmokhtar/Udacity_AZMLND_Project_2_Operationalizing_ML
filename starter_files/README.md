@@ -49,6 +49,10 @@ The Screenshot below shows the best model after the experiement completes.`Votin
 
 ### Step 3 : Deploy the Best Model
 
+Deploying the Best Model will allow to interact with the HTTP API service and interact with the model by sending data over POST requests.
+
+![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/05_autoML_best_model_deploy.PNG)
+
 ### Step 4 : Enable logging
 
 ### Step 5 : Swagger Documentation
