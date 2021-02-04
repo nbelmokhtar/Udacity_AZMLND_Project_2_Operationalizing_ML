@@ -41,6 +41,12 @@ The experiment is shown as completed.
 
 ![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/02_autoML_experiment.PNG) 
 
+#### 2.3 : Best Model
+
+The Screenshot below shows the best model after the experiement completes.
+
+![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/04_autoML_best_model.PNG)  
+
 ### Step 3 : Deploy the Best Model
 
 ### Step 4 : Enable logging
