@@ -1,6 +1,6 @@
 # Operationalizing Machine Learning
 
-*TODO:* Write an overview to your project.
+This project consists of two phases :  using Azure to configure a cloud-based machine learning production model, deploy it, and consume it. The second phase involves creating, publishing, and consuming a pipeline. In both phases we work with the Bank Marketing dataset.
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
