@@ -1,6 +1,6 @@
 # Operationalizing Machine Learning
 
-This project consists of two phases :  using Azure to configure a cloud-based machine learning production model, deploy it, and consume it. This part is mainly done by using the Azure ML studio and the Terminal (GitBash). The second phase involves creating, publishing, and consuming a pipeline using the Python SDK and Jupyter Notebook. In both phases we work with the [Bank Marketing dataset](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv). The goal is to predict whether bank customers subscribe to term deposits (target variable y=1) or not (target variable y=0) based on the values of input variables (age, job, marital, education, etc).
+This project consists of two phases :  using Azure to configure a cloud-based machine learning production model, deploy it, and consume it. This part is mainly done by using the Azure ML studio and the Terminal (GitBash). The second phase involves creating, publishing, and consuming a pipeline using the Python SDK and Jupyter Notebook. In both phases we work with the [Bank Marketing dataset](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv). The goal is to predict whether bank customers subscribe to term deposits (target variable `y`=1) or not (target variable `y`=0) based on the values of input variables (age, job, marital, education, etc).
 
 The main steps followed in the project are :
 
@@ -21,9 +21,8 @@ We can skip the authentication step since we are not authorized to create a secu
 ## Key Steps
 
 ### Step 1 : Authentication
-As mentioned before, the autentication step was done for us. In this step, we need to install the Azure Machine Learning Extension which allows us to interact with Azure ML Studio, part of the "az" command and create a Service Principal account. 
+As mentioned before, the autentication step was done for us. In this step, we need to install the Azure Machine Learning Extension which allows us to interact with Azure ML Studio, part of the `az` command and create a `Service Principal account`. 
 
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
