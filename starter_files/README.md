@@ -53,6 +53,8 @@ Deploying the Best Model will allow to interact with the HTTP API service and in
 
 ![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/05_autoML_best_model_deploy.PNG)
 
+![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/06_autoML_best_model_deploy_status.PNG)
+
 ### Step 4 : Enable logging
 
 ### Step 5 : Swagger Documentation
