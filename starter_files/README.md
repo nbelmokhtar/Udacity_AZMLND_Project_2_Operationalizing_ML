@@ -1,6 +1,6 @@
 # Operationalizing Machine Learning
 
-This project consists of two phases :  using Azure to configure a cloud-based machine learning production model, deploy it, and consume it. The second phase involves creating, publishing, and consuming a pipeline. In both phases we work with the [Bank Marketing dataset](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv). The goal is to predict whether bank customers subscribe to term deposits (target variable y=1) or not (target variable y=0).
+This project consists of two phases :  using Azure to configure a cloud-based machine learning production model, deploy it, and consume it. The second phase involves creating, publishing, and consuming a pipeline. In both phases we work with the [Bank Marketing dataset](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv). The goal is to predict whether bank customers subscribe to term deposits (target variable y=1) or not (target variable y=0) based on the values of input variables (age, job, marital, education, etc).
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
