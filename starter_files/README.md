@@ -31,7 +31,7 @@ In this step, we created an experiment using Automated ML, configured a compute 
 
 #### 2.1 : Registered Datasets
 
-Below, a screenshot of 'Registered Datasets" in ML Studio showing that Bankmarketing dataset is available.
+Below, a screenshot of `Registered Datasets` in ML Studio showing that Bankmarketing dataset is available.
 
 ![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/01_registered_datasets.PNG) 
 
