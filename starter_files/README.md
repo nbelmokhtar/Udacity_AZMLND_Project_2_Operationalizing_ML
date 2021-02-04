@@ -22,9 +22,24 @@ We can skip the authentication step since we are not authorized to create a secu
 ## Key Steps
 
 ### Step 1 : Authentication
+
 As mentioned before, the autentication step was done for us. In this step, we need to install the Azure Machine Learning Extension which allows us to interact with Azure ML Studio, part of the `az` command and create a `Service Principal account`. 
 
 ### Step 2 : Automated ML Experiment
+
+In this step, we created an experiment using Automated ML, configured a compute cluster, and used that cluster to run the experiment. 
+
+#### 2.1 : Registered Datasets
+
+Below, a screenshot of 'Registered Datasets" in ML Studio showing that Bankmarketing dataset is available.
+
+![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/01_registered_datasets.PNG) 
+
+#### 2.2 : Experiment Completed
+
+The experiment is shown as completed.
+
+![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/02_autoML_experiment.PNG) 
 
 ### Step 3 : Deploy the Best Model
 
