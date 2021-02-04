@@ -43,7 +43,7 @@ The experiment `Bank-Marketing-AutoML-Exp` is shown as completed.
 
 #### 2.3 : Best Model
 
-The Screenshot below shows the best model after the experiement completes.
+The Screenshot below shows the best model after the experiement completes.`Voting Ensemble` achieved an accuracy of 91.80%.
 
 ![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/04_autoML_best_model.PNG)  
 
