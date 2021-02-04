@@ -19,7 +19,9 @@ We can skip the authentication step since we are not authorized to create a secu
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step.
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
+
+### Step 1 : Authentication
+As mentioned before, the autentication step was done for us. In this step, we need to install the Azure Machine Learning Extension which allows us to interact with Azure ML Studio, part of the "az" command and create a Service Principal account. 
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
