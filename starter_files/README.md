@@ -37,7 +37,7 @@ Below, a screenshot of `Registered Datasets` in ML Studio showing that `Bank-mar
 
 #### 2.2 : Experiment Completed
 
-The experiment is shown as completed.
+The experiment `Bank-Marketing-AutoML-Exp` is shown as completed.
 
 ![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/02_autoML_experiment.PNG) 
 
