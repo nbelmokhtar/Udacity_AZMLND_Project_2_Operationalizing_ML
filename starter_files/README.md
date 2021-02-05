@@ -49,9 +49,11 @@ The Screenshot below shows the best model after the experiement completes.`Votin
 
 ### Step 3 : Deploy the Best Model
 
-Deploying the Best Model will allow to interact with the HTTP API service and interact with the model by sending data over POST requests.
+Deploying the Best Model using the `Azure Container Instance` and `Enable authentication` will allow to interact with the HTTP API service and interact with the model by sending data over POST requests.
 
 ![Best Model Deploy](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/05_autoML_best_model_deploy.PNG)
+
+The deploy status shows succeeded.
 
 ![Best Model Deploy Status](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/06_autoML_best_model_deploy_status.PNG)
 
