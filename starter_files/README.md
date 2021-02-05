@@ -33,29 +33,35 @@ In this step, we created an experiment using Automated ML, configured a compute 
 
 Below, a screenshot of `Registered Datasets` in ML Studio showing that `Bank-marketing` dataset is available.
 
-![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/01_registered_datasets.PNG) 
+![Registered Datasets](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/01_registered_datasets.PNG) 
 
 #### 2.2 : Experiment Completed
 
 The experiment `Bank-Marketing-AutoML-Exp` is shown as completed.
 
-![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/02_autoML_experiment.PNG) 
+![AutoML Experiment](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/02_autoML_experiment.PNG) 
 
 #### 2.3 : Best Model
 
 The Screenshot below shows the best model after the experiement completes.`Voting Ensemble` achieved an accuracy of 91.80%.
 
-![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/04_autoML_best_model.PNG)  
+![Best Model](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/04_autoML_best_model.PNG)  
 
 ### Step 3 : Deploy the Best Model
 
 Deploying the Best Model will allow to interact with the HTTP API service and interact with the model by sending data over POST requests.
 
-![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/05_autoML_best_model_deploy.PNG)
+![Best Model Deploy](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/05_autoML_best_model_deploy.PNG)
 
-![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/06_autoML_best_model_deploy_status.PNG)
+![Best Model Deploy Status](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/06_autoML_best_model_deploy_status.PNG)
 
 ### Step 4 : Enable logging
+
+![Logs Py File](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/07_logs_py.PNG)
+
+![Run Logs Py File](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/08_run_logs_py.PNG)
+
+![App Insights Enabled](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/09_app_insights_enabled.PNG)
 
 ### Step 5 : Swagger Documentation
 
