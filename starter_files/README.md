@@ -71,6 +71,9 @@ A screenshot showing that `Application Insights` is enabled in the `Details` tab
 
 In this step, we consume the deployed model using Swagger. First, we download the `swagger.json` file then we run the `swagger.sh` and `serve.py`
 
+- swagger.sh will download the latest Swagger container, and it will run it on port 9000. 
+- serve.py will start a Python server on port 8000. This script needs to be right next to the downloaded swagger.json file.
+
 ![Run Swagger](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/10_run_swagger_sh.PNG)
 
 The next screenshots shows swagger running on localhost.
