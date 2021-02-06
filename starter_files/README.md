@@ -87,6 +87,18 @@ The deploy status shows succeeded.
 
 ### Step 7 : Create and publish a pipeline
 
+![Create a Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/21_pipeline_created.PNG)
+
+![Pipeline Running](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/22_pipeline_running.PNG)
+
+![Pipeline Running](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/23_pipeline_running.PNG)
+
+![Pipeline Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/24_pipeline_completed.PNG)
+
+![Pipelines Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/25_pipelines_completed.PNG)
+
+
+
 ### Step 8 : Documentation
 
 ## Screen Recording
