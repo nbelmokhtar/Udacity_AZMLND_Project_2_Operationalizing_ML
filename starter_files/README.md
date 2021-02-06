@@ -149,4 +149,7 @@ Scheduled run
 Here's a [screencast](https://www.dropbox.com/s/9f96vbuqten905g/NB-Udacity-AZMLND-Project-2.mp4?dl=0) recording that shows the entire process of the working ML application.
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
+It can be clearly seen that the data is highly imbalanced (88.80% is labeled NO and 11.20% is labeled YES). This imbalance can be handled by using K-fold Cross-Validation in the right way.
+We can also improve model performance by perfoming feature engineering on the bank marketing dataset. 
+About AutoML settings, we suggest to increase "experiment_timeout_minutes" in order to achieve better results.
