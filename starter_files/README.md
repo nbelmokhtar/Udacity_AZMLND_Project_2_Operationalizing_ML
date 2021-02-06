@@ -87,6 +87,8 @@ The deploy status shows succeeded.
 
 ### Step 7 : Create, Publish and Consume a Pipeline
 
+The pipeline section of Azure ML Studio, showing that the pipeline has been created.
+
 ![Create a Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/21_pipeline_created.PNG)
 
 ![Pipeline Running](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/22_pipeline_running.PNG)
@@ -97,7 +99,11 @@ The deploy status shows succeeded.
 
 ![Pipelines Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/25_pipelines_completed.PNG)
 
+The pipeline section of Azure ML Studio, showing that the pipeline endpoint.
+
 ![Pipeline Endpoints](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/26_pipeline_endpoints.PNG)
+
+The Bankmarketing dataset with the AutoML module.
 
 ![Pipeline Dataset and Automl](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/27_pipeline_dataset_and_automl_module.PNG)
 
