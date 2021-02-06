@@ -77,6 +77,10 @@ The deploy status shows succeeded.
 
 ### Step 6 : Consume model endpoints
 
+![Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/17_endpoint_py.PNG)
+
+![Run Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/18_run_endpoint_py_1.PNG)
+
 ### Step 7 : Create and publish a pipeline
 
 ### Step 8 : Documentation
