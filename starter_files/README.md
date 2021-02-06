@@ -111,7 +111,7 @@ The `Published pipeline overview` shows a REST endpoint and a status of ACTIVE.
 
 ![Published Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/28_published_pipeline_overview.PNG)
 
-`Use RunDetails Widget` shows the step runs.
+The `Use RunDetails Widget` shows the step runs.
 
 ![RunDetails](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/29_rundetails.PNG)
 
@@ -122,8 +122,6 @@ Scheduled run
 ![Scheduled Run](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/30_scheduled_runs_2.PNG)
 
 ![Scheduled Run](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/31_automl_module.PNG)
-
-
 
 ### Step 8 : Documentation
 
