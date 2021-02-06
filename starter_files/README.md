@@ -96,6 +96,8 @@ Running the endpoint.py script produced a `data.json` output.
 
 ![Benchmark](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/19_benchmark_sh.PNG)
 
+The following screenshot shows `Apache Benchmark` running against the HTTP API using authentication keys to retrieve performance results.
+
 ![Run Benchmark](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/20_run_benchmark_sh_1.PNG)
 
 ### Step 7 : Create, Publish and Consume a Pipeline
