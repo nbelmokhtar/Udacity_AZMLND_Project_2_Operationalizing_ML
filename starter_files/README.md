@@ -57,7 +57,7 @@ Deploying the Best Model using the `Azure Container Instance` and `Enable authen
 
 ![Best Model Deploy](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/05_autoML_best_model_deploy.PNG)
 
-The deploy status shows succeeded.
+The deploy status shows `succeeded`.
 
 ![Best Model Deploy Status](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/06_autoML_best_model_deploy_status.PNG)
 
@@ -68,6 +68,8 @@ Now that the Best Model is deployed, we enable Application Insights and retrieve
 ![Logs Py File](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/07_logs_py.PNG)
 
 ![Run Logs Py File](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/08_run_logs_py.PNG)
+
+A screenshot showing that `Application Insights` is enabled in the `Details` tab of the endpoint.
 
 ![App Insights Enabled](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/09_app_insights_enabled.PNG)
 
