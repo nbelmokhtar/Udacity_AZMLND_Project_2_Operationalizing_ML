@@ -107,7 +107,7 @@ The Bankmarketing dataset with the AutoML module.
 
 ![Pipeline Dataset and Automl](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/27_pipeline_dataset_and_automl_module.PNG)
 
-The `Published Pipeline overview`, showing a REST endpoint and a status of ACTIVE.
+The `Published pipeline overview`, showing a REST endpoint and a status of ACTIVE.
 
 ![Published Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/28_published_pipeline_overview.PNG)
 
