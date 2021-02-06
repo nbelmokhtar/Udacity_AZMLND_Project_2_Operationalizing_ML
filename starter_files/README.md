@@ -87,7 +87,7 @@ The deploy status shows succeeded.
 
 ### Step 7 : Create, Publish and Consume a Pipeline
 
-The pipeline section of Azure ML Studio, showing that the pipeline has been created and it's running.
+The pipeline section of Azure ML Studio shows that the pipeline has been created and it's running.
 
 ![Create a Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/21_pipeline_created.PNG)
 
@@ -99,7 +99,7 @@ The pipeline section of Azure ML Studio, showing that the pipeline has been crea
 
 ![Pipelines Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/25_pipelines_completed.PNG)
 
-The pipeline section of Azure ML Studio, showing that the pipeline endpoint.
+The pipeline section of Azure ML Studio shows that the pipeline endpoint.
 
 ![Pipeline Endpoints](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/26_pipeline_endpoints.PNG)
 
@@ -107,9 +107,23 @@ The Bankmarketing dataset with the AutoML module.
 
 ![Pipeline Dataset and Automl](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/27_pipeline_dataset_and_automl_module.PNG)
 
-The `Published pipeline overview`, showing a REST endpoint and a status of ACTIVE.
+The `Published pipeline overview` shows a REST endpoint and a status of ACTIVE.
 
 ![Published Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/28_published_pipeline_overview.PNG)
+
+`Use RunDetails Widget` shows the step runs.
+
+![RunDetails](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/29_rundetails.PNG)
+
+Scheduled run
+
+![Scheduled Run](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/30_scheduled_runs_1.PNG)
+
+![Scheduled Run](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/30_scheduled_runs_2.PNG)
+
+![Scheduled Run](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/31_automl_module.PNG)
+
+
 
 ### Step 8 : Documentation
 
