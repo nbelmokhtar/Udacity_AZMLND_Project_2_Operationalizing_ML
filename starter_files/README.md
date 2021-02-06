@@ -86,6 +86,8 @@ The next screenshots shows swagger running on localhost.
 
 ### Step 6 : Consume model endpoints
 
+Once the model is deployed, we use the `endpoint.py` script provided to interact with the trained model. In this step, we need to run the script, modifying both the `scoring_uri` and the `key` to match the key for our service and the URI that was generated after deployment. This URI can be found in the `Details` tab, above the Swagger URI.
+
 ![Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/17_endpoint_py.PNG)
 
 ![Run Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/18_run_endpoint_py_1.PNG)
