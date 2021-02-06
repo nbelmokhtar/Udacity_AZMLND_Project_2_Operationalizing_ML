@@ -33,19 +33,13 @@ As mentioned before, the autentication step was done for us. In this step, we ne
 
 In this step, we created an experiment using Automated ML, configured a compute cluster, and used that cluster to run the experiment. 
 
-#### 2.1 : Registered Datasets
-
 Below, a screenshot of `Registered Datasets` in ML Studio showing that `Bank-marketing` dataset is available.
 
 ![Registered Datasets](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/01_registered_datasets.PNG) 
 
-#### 2.2 : Experiment Completed
-
 The experiment `Bank-Marketing-AutoML-Exp` is shown as completed.
 
 ![AutoML Experiment](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/02_autoML_experiment.PNG) 
-
-#### 2.3 : Best Model
 
 The Screenshot below shows the best model after the experiement completes.`Voting Ensemble` achieved an accuracy of 91.80%.
 
