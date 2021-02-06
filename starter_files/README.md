@@ -41,7 +41,7 @@ The experiment `Bank-Marketing-AutoML-Exp` is shown as completed.
 
 ![AutoML Experiment](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/02_autoML_experiment.PNG) 
 
-The Screenshot below shows the best model after the experiement completes.`Voting Ensemble` achieved an accuracy of 91.80%.
+The screenshot below shows the best model after the experiement completes.`Voting Ensemble` achieved an accuracy of 91.80%.
 
 ![Best Model](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/04_autoML_best_model.PNG)  
 
@@ -57,7 +57,7 @@ The deploy status shows `succeeded`.
 
 ### Step 4 : Enable logging
 
-Now that the Best Model is deployed, we enable Application Insights and retrieve logs. Although this is configurable at deploy time with a check-box, it is useful to be able to run code that will enable it for us as shown below.
+Now that the Best Model is deployed, we enable Application Insights and retrieve logs. Although this is configurable at deploy time with a check-box, it is useful to be able to run code that will enable it for us as, shown below.
 
 ![Logs Py File](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/07_logs_py.PNG)
 
@@ -69,7 +69,11 @@ A screenshot showing that `Application Insights` is enabled in the `Details` tab
 
 ### Step 5 : Swagger Documentation
 
+In this step, we consume the deployed model using Swagger.
+
 ![Run Swagger](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/10_run_swagger_sh.PNG)
+
+The next screenshots shows that swagger runs on localhost showing the HTTP API methods and reponses for the model.
 
 ![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/12_local_host_8000_explore.PNG)
 ![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/13_local_host_8000_explore.PNG)
