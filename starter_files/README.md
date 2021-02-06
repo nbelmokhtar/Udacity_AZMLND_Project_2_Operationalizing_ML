@@ -104,6 +104,8 @@ The following screenshot shows `Apache Benchmark` running against the HTTP API u
 
 ### Step 7 : Create, Publish and Consume a Pipeline
 
+For this part of the project, we use the Jupyter Notebook provided in the starter files. We must make sure to update the notebook to have the same keys, URI, dataset, cluster, and model names already created. 
+
 The pipeline section of Azure ML Studio shows that the pipeline has been created and it's running.
 
 ![Create a Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/21_pipeline_created.PNG)
