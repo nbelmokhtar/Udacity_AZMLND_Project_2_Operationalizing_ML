@@ -87,7 +87,7 @@ The deploy status shows succeeded.
 
 ### Step 7 : Create, Publish and Consume a Pipeline
 
-The pipeline section of Azure ML Studio, showing that the pipeline has been created.
+The pipeline section of Azure ML Studio, showing that the pipeline has been created and it's running.
 
 ![Create a Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/21_pipeline_created.PNG)
 
