@@ -94,6 +94,8 @@ Running the endpoint.py script produced a `data.json` output.
 
 ![Run Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/18_run_endpoint_py_1.PNG)
 
+We make sure we modify `benchmark.sh` script to match the URI and Keys.
+
 ![Benchmark](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/19_benchmark_sh.PNG)
 
 The following screenshot shows `Apache Benchmark` running against the HTTP API using authentication keys to retrieve performance results.
