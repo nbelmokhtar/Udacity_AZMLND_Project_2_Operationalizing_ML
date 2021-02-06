@@ -97,9 +97,9 @@ The pipeline section of Azure ML Studio shows that the pipeline has been created
 
 ![Pipeline Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/24_pipeline_completed.PNG)
 
-![Pipelines Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/25_pipelines_completed.PNG)
+The pipeline section of Azure ML Studio shows the pipeline endpoint.
 
-The pipeline section of Azure ML Studio shows that the pipeline endpoint.
+![Pipelines Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/25_pipelines_completed.PNG)
 
 ![Pipeline Endpoints](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/26_pipeline_endpoints.PNG)
 
