@@ -18,7 +18,7 @@ We can skip the authentication step since we are not authorized to create a secu
 
 An architectural diagram that helps to visualize the steps followed throughout this project is shown below. 
 
-![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/architectual_diagram.png) 
+![Architectural Diagram](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/architectural_diagram.png) 
 
 We start with authentication and then run an Automated ML experiment to deploy the best model. Next, we enable Application Insight to review important information about the service when consuming the model. And finally, we create, publish, and interact with a pipeline. 
 
