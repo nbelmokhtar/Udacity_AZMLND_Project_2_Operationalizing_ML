@@ -107,7 +107,7 @@ The deploy status shows succeeded.
 
 ## Screen Recording
 
-Here's a [screencast](https://www.dropbox.com/s/9f96vbuqten905g/NB-Udacity-AZMLND-Project-2.mp4?dl=0) recording of the project that shows the entire process of the working ML application.
+Here's a [screencast](https://www.dropbox.com/s/9f96vbuqten905g/NB-Udacity-AZMLND-Project-2.mp4?dl=0) recording that shows the entire process of the working ML application.
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
