@@ -69,11 +69,11 @@ A screenshot showing that `Application Insights` is enabled in the `Details` tab
 
 ### Step 5 : Swagger Documentation
 
-In this step, we consume the deployed model using Swagger.
+In this step, we consume the deployed model using Swagger. First, we download the `swagger.json` file then we run the `swagger.sh` and `serve.py`
 
 ![Run Swagger](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/10_run_swagger_sh.PNG)
 
-The next screenshots shows that swagger runs on localhost showing the HTTP API methods and reponses for the model.
+The next screenshots shows swagger running on localhost.
 
 ![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/12_local_host_8000_explore.PNG)
 ![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/13_local_host_8000_explore.PNG)
