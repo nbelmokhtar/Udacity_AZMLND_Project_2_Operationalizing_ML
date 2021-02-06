@@ -101,7 +101,7 @@ The deploy status shows succeeded.
 
 ![Pipeline Dataset and Automl](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/27_pipeline_dataset_and_automl_module.PNG)
 
-
+![Published Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/28_published_pipeline_overview.PNG)
 
 ### Step 8 : Documentation
 
