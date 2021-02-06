@@ -63,6 +63,8 @@ The deploy status shows succeeded.
 
 ### Step 4 : Enable logging
 
+Now that the Best Model is deployed, we enable Application Insights and retrieve logs. Although this is configurable at deploy time with a check-box, it is useful to be able to run code that will enable it for us as shown below.
+
 ![Logs Py File](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/07_logs_py.PNG)
 
 ![Run Logs Py File](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/08_run_logs_py.PNG)
