@@ -90,6 +90,8 @@ Once the model is deployed, we use the `endpoint.py` script provided to interact
 
 ![Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/17_endpoint_py.PNG)
 
+Running the endpoint.py script produced a `data.json` output.
+
 ![Run Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/18_run_endpoint_py_1.PNG)
 
 ![Benchmark](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/19_benchmark_sh.PNG)
