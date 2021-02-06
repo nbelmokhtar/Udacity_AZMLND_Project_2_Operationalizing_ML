@@ -11,7 +11,6 @@ The main steps followed in the project are :
 5. Swagger Documentation
 6. Consume model endpoints
 7. Create and publish a pipeline
-8. Documentation
 
 We can skip the authentication step since we are not authorized to create a security principal because we are using the lab Udacity provided to us.
 
@@ -141,8 +140,6 @@ Scheduled run
 ![Scheduled Run](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/30_scheduled_runs_2.PNG)
 
 ![Scheduled Run](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/31_automl_module.PNG)
-
-### Step 8 : Documentation
 
 ## Screen Recording
 
