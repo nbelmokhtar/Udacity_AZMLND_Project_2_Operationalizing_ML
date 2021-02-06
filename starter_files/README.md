@@ -81,6 +81,10 @@ The deploy status shows succeeded.
 
 ![Run Endpoint](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/18_run_endpoint_py_1.PNG)
 
+![Benchmark](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/19_benchmark_sh.PNG)
+
+![Run Benchmark](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/20_run_benchmark_sh_1.PNG)
+
 ### Step 7 : Create and publish a pipeline
 
 ### Step 8 : Documentation
