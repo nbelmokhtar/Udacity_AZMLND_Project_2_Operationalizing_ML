@@ -85,7 +85,7 @@ The deploy status shows succeeded.
 
 ![Run Benchmark](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/20_run_benchmark_sh_1.PNG)
 
-### Step 7 : Create and publish a pipeline
+### Step 7 : Create, Publish and Consume a Pipeline
 
 ![Create a Pipeline](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/21_pipeline_created.PNG)
 
@@ -96,6 +96,10 @@ The deploy status shows succeeded.
 ![Pipeline Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/24_pipeline_completed.PNG)
 
 ![Pipelines Completed](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/25_pipelines_completed.PNG)
+
+![Pipeline Endpoints](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/26_pipeline_endpoints.PNG)
+
+![Pipeline Dataset and Automl](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/27_pipeline_dataset_and_automl_module.PNG)
 
 
 
