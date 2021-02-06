@@ -67,6 +67,14 @@ The deploy status shows succeeded.
 
 ### Step 5 : Swagger Documentation
 
+![Run Swagger](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/10_run_swagger_sh.PNG)
+
+![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/12_local_host_8000_explore.PNG)
+![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/13_local_host_8000_explore.PNG)
+![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/14_local_host_8000_explore.PNG)
+![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/15_local_host_8000_explore.PNG)
+![Local Host](https://github.com/nbelmokhtar/Udacity_AZMLND_Project_2_Operationalizing_ML/blob/master/starter_files/screenshots/16_local_host_8000_explore.PNG)
+
 ### Step 6 : Consume model endpoints
 
 ### Step 7 : Create and publish a pipeline
