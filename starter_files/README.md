@@ -151,4 +151,4 @@ It can be clearly seen that the data is highly imbalanced (88.80% is labeled NO 
 
 We can also improve model performance by perfoming feature engineering on the bank marketing dataset. 
 
-About AutoML settings, we suggest to increase "experiment_timeout_minutes" in order to achieve better results.
+About AutoML settings, we suggest to increase "experiment_timeout_minutes" in order to achieve better results and also opt for deep learning capability.
